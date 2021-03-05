@@ -1,4 +1,4 @@
-# Movie Fight with JS
+# Secret Message with JS
 
 An application to share secret message. [App](https://secretmessage-lake.vercel.app/).
 
